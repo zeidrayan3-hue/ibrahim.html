@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "ibrahim abo arab2",
+			"path": "."
+		},
+		{
+			"name": "ibrahimabo arab 3",
+			"path": "../../../.HTML/ibrahimabo arab 3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ibrahim abo arab2",
+		"liveServer.settings.port": 5501
+	}
+}
